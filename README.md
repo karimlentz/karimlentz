@@ -1,7 +1,10 @@
-<h2 align="left">Olá! 👋 Me chamo Karim Soares Lentz</h2>
+<h1 align="left">Olá! 👋 Me chamo Karim Soares Lentz</h1>
 
 <p align="left">
-🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas computacionais.<br><br>
+🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas computacionais.
+</p>
+
+<p align="left">
 Atualmente estou focando nos fundamentos da programação, estruturas de dados e algoritmos, além de explorar tecnologias web modernas.
 </p>
 
@@ -34,7 +37,7 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/karimlentz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -42,10 +45,9 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
 
 ### 🐍 Tem uma cobrinha que gosta de passear por aqui:
 
-<img src="https://raw.githubusercontent.com/karimlentz/karimlentz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/karimlentz/karimlentz/output/snake.svg" alt="Snake animation" height="100" />
 
 ---
 
-<p align="center">
-  <em>"Aprender a programar é aprender a pensar de forma lógica, criativa e eficiente." — anônimo</em>
-</p>
+<p align="center"><em>"Aprender a programar é aprender a pensar de forma lógica, criativa e eficiente." — anônimo</em></p>
+
