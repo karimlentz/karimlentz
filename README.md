@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karim and I'm a Computer Science student at UFLA </h2>
+<h2 align="left"> Olá 👋! Meu nome é Karim e sou estudante de Ciência da Computação na UFLA </h2>
 
 ###
 
