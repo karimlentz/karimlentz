@@ -1,13 +1,31 @@
-<h2 align="left">E aí! 👋 Meu nome é Karim 😄</h2>
+<h2 align="left">Olá! 👋 Me chamo Karim Soares Lentz</h2>
 
-<p align="left">Sou estudante de Ciência da Computação, curiosa por natureza e apaixonada por resolver problemas (mesmo que às vezes eu crie uns só pra poder resolver 😅).</p>
-
-- 🎓 Atualmente aprendendo **C++**, **Python** e um pouco de **React**
-- 💡 Tentando sobreviver à faculdade com café e playlists infinitas
-- 🧩 Gosto de quebrar a cabeça com código, mas também amo ler, ver séries e inventar moda online
-- 🧠 Curiosidade aleatória: consigo decorar letras de música que ouvi só uma vez (mas esqueço onde deixei as chaves 🤷‍♀️)
+<p align="left">
+🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas computacionais.<br><br>
+Atualmente estou focando nos fundamentos da programação, estruturas de dados e algoritmos, além de explorar tecnologias web modernas.
+</p>
 
 ---
+
+### 🚀 Tecnologias e ferramentas com as quais tenho trabalhado:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karimlentz&show_icons=true&count_private=true&theme=dracula" height="150" />
@@ -16,25 +34,7 @@
 
 ---
 
-### 🚀 Tecnologias que tô curtindo aprender:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-</div>
-
----
-
-### 💬 Bora conversar?
+### 📫 Entre em contato comigo:
 
 <div align="left">
   <a href="mailto:seuemail@gmail.com" target="_blank">
@@ -42,9 +42,6 @@
   </a>
   <a href="https://www.linkedin.com/in/seunome" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
@@ -56,8 +53,6 @@
 
 ---
 
-> ✨ "Código limpo é poesia. Código quebrado é desafio." – alguém por aí (ou eu mesma depois de 3 cafés)
-
-
-
-
+<p align="center">
+  <em>"Aprender a programar é aprender a pensar de forma lógica, criativa e eficiente." — anônimo</em>
+</p>
