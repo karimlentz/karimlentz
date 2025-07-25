@@ -27,7 +27,7 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
 ### 📫 Entre em contato comigo:
 
 <div align="left">
-  <a href="mailto:karim.lentz25@gmail.com" target="_blank">
+  <a href="mailto:karim.lentz25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/karim-soares-lentz" target="_blank">
