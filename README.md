@@ -27,13 +27,13 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
 ### 📫 Entre em contato comigo:
 
 <div align="left">
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:karim.lentz25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seunome" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-soares-lentz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
+  <a href="https://www.instagram.com/karimlentz" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
