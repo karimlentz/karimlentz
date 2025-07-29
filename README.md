@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-Atualmente estou focando nos fundamentos da programação, estruturas de dados e algoritmos, além de explorar tecnologias web modernas.
+Atualmente estou focando nos fundamentos da programação, estruturas de dados e algoritmos.
 </p>
 
 ---
