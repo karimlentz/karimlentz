@@ -1,4 +1,4 @@
-<h1 align="left">Olá! 👋 Me chamo Karim Soares Lentz</h1>
+<h1 align="left">Oii! Eu sou a Karim Lentz</h1>
 
 <p align="left">
 🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas computacionais.
