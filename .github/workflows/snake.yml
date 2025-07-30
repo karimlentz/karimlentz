@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: karimlentz
+          outputs: |
+            ./output/snake.svg
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "gerando cobrinha"
+          add: "output/snake.svg"
