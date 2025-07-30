@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (horário UTC)
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,12 @@ jobs:
             ./output/snake.svg
 
       - name: Commit and push
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: "Atualiza cobrinha 🐍"
+          add: "output/snake.svg"
+          
+     - name: Commit and push
         uses: EndBug/add-and-commit@v7
         with:
           message: "gerando cobrinha"
