@@ -46,8 +46,3 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
 ### 🐍 Tem uma cobrinha que gosta de passear por aqui:
 
 <img src="https://raw.githubusercontent.com/karimlentz/karimlentz/output/snake.svg" alt="Snake animation" height="100" />
-
----
-
-<p align="center"><em>"Aprender a programar é aprender a pensar de forma lógica, criativa e eficiente." — anônimo</em></p>
-
