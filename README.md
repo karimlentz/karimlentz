@@ -14,9 +14,8 @@ Atualmente estou focando nos fundamentos da programação, algoritmos, banco de 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-</div>
+
 ---
 
 ### 📫 Entre em contato comigo:
