@@ -1,11 +1,11 @@
 <h1 align="left">Oii! Eu sou a Karim </h1>
 
 <p align="left">
-🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas computacionais.
+🎓 Sou estudante de Ciência da Computação na <strong>Universidade Federal de Lavras (UFLA)</strong> e tenho grande interesse por desenvolvimento de software, ciência de dados e resolução de problemas.
 </p>
 
 <p align="left">
-Atualmente estou focando nos fundamentos da programação, estruturas de dados e algoritmos.
+Atualmente estou focando nos fundamentos da programação, algoritmos, banco de dados e scrum.
 </p>
 
 ---
@@ -15,7 +15,9 @@ Atualmente estou focando nos fundamentos da programação, estruturas de dados e
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
 </div>
-
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+</div>
 ---
 
 ### 📫 Entre em contato comigo:
