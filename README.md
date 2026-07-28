@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-Atualmente estou focando nos fundamentos da programação, algoritmos, banco de dados e scrum.
+Atualmente sou Product Owner e membro de Processos internos na Emakers Júnior. Estou focando nos fundamentos da programação, algoritmos, banco de dados e Scrum.
 </p>
 
 ---
